@@ -20,6 +20,13 @@ This project is a comprehensive Bash script that generates a detailed weekly sum
 
 ---
 
+## 📸 Screenshots
+
+Here’s a preview of the HTML report emailed weekly:
+
+![Report Screenshot](screenshots/report_preview.png)
+
+
 ## 📂 Project Structure
 
 ```
@@ -37,7 +44,8 @@ ssh-weekly-report/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ssh-weekly-report.git
+git clone https://github.com/Elite-Techs/Weekly-SSH-System-Report-Script
+
 cd ssh-weekly-report
 ```
 
